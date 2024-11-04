@@ -1,0 +1,19 @@
+.red-text {
+    color: red;
+}
+
+#title-text {
+    color: green;
+}
+
+#second-para-title {
+    color: rgb(15, 43, 136);
+}
+
+#second-para-subtitle {
+    color: rgb(64, 100, 216);
+}
+
+#second-para-text {
+    color: lightblue
+}
