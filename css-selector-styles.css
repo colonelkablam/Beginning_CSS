@@ -1,19 +1,102 @@
-.red-text {
+ol {
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+}
+
+p {
     color: red;
 }
 
 #title-text {
-    color: green;
+ color: green;
+}
+
+#red-text {
+ color: red;
 }
 
 #second-para-title {
-    color: rgb(15, 43, 136);
+    color: blue;
 }
-
 #second-para-subtitle {
-    color: rgb(64, 100, 216);
+ color: aqua;
+}
+#second-para-text {
+    color: lightblue;
 }
 
-#second-para-text {
-    color: lightblue
+.note {
+    font-size: 20px;
+}
+
+#id-selector-demo {
+    color: green;
+}
+
+li[value="4"] {
+    color:blue;
+}
+
+* {
+    text-align: center;
+}
+
+#spanish-colours-div {
+    text-align: left;
+}
+
+.colour {
+    height: 200px;
+    width: 200px;
+}
+
+.colour-text{
+    text-align: left;
+    font-weight: normal;
+    font-size: 30px
+}
+
+#red {
+    color:red;
+}
+
+#blue {
+    color:blue;
+}
+
+#orange {
+    color:orange;
+}
+
+#green {
+    color:green;
+}
+
+#yellow {
+    color:rgb(190, 190, 0);
+}
+
+#font-properties {
+    font-size: 18pt;
+}
+
+#font-properties p {
+    color: black;
+}
+
+#pixel {
+    font-size: 10px;
+}
+
+#point {
+    font-size: 16pt;
+}
+
+#em {
+    font-size: 1em;
+}
+
+#rem {
+    font-size: 1rem;
 }
